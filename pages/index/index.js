@@ -4,6 +4,7 @@ const app = getApp()
 
 Page({
   data: {
+    currentTab: 0,
     motto: 'Hello World',
     userInfo: {},
     hasUserInfo: false,

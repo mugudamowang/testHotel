@@ -1,13 +1,14 @@
 {
   "pages": [
+    "pages/load/load",
     "pages/index/index",
     "pages/logs/logs"
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#f0f0f0",
+    "navigationBarBackgroundColor": "#090F14",
     "navigationBarTitleText": "不困旅馆",
-    "navigationBarTextStyle": "black"
+    "navigationBarTextStyle": "white"
   },
   "sitemapLocation": "sitemap.json"
 }
